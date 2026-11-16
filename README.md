@@ -1,5 +1,7 @@
 # ⌨️ Kurdi Keyboard Layouts for macOS
 
+🌐 **English** · [کوردی](README.ckb.md)
+
 **Kurdish (Sorani) keyboard layouts for Mac, updated and fixed by [Haroon](https://github.com/harunabubakir).**
 
 ## ✨ What's fixed
@@ -46,16 +48,6 @@ In both pictures: black is the normal key, red is Shift, green is with Caps Lock
 ## 🗑️ Uninstall
 
 Delete `Kurdi.bundle` from `~/Library/Keyboard Layouts/`, then log out and back in.
-
-## 📝 Word extras (optional)
-
-These are in the repository, not in the release zip.
-
-| File | What it does |
-|---|---|
-| `Normal.dotm` + `install.sh` | Makes right-to-left the default for every new Word document. Quit Word, then run `bash install.sh`. Undo with `bash install.sh undo`. |
-| `Fix Word Direction.app` | Sets each paragraph of the open Word document to RTL or LTR from its first letter. The app is not notarized, so the first time use right-click → **Open**. |
-| `fix-direction.applescript` | Source of the app above. |
 
 ## 🙏 Credits
 
