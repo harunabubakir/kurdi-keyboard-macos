@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>org.sil.ukelele.keyboardlayout.kurdisorani</string>
+<key>CFBundleName</key><string>Kurdi Sorani</string>
+<key>CFBundleVersion</key><string>1.0</string>
+<key>KLInfo_Kurdi Sorani</key><dict>
+<key>TISInputSourceID</key><string>org.sil.ukelele.keyboardlayout.kurdisorani.kurdisorani</string>
+<key>TISIntendedLanguage</key><string>ckb</string>
+<key>TISIconIsTemplate</key><false/></dict>
+</dict></plist>
