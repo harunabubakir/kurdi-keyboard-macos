@@ -50,4 +50,5 @@ Delete `Kurdi.bundle` from `~/Library/Keyboard Layouts/`, then log out and back 
 ## 🙏 Credits
 
 Based on the unified Kurdish keyboard published by the Kurdistan Regional Government Department of Information Technology: <http://unicode.ekrg.org/download.html>
+
 Claude Code
