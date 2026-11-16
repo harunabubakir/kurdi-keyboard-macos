@@ -43,8 +43,6 @@ In both pictures: black is the normal key, red is Shift, green is with Caps Lock
 3. Log out and log back in.
 4. Open **System Settings → Keyboard → Input Sources → Edit → +**, find **Kurdi-Sorani** and **Kurdi-Arabi** (under *Kurdish* or *Others*) and add them.
 
-**Upgrading from v1.0.0:** delete the old `Kurdi Sorani.bundle` and `Kurdi.bundle` from that folder first.
-
 ## 🗑️ Uninstall
 
 Delete `Kurdi.bundle` from `~/Library/Keyboard Layouts/`, then log out and back in.

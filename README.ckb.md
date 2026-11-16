@@ -41,8 +41,6 @@
 3. لە هەژمارەکەت بچۆ دەرەوە (Log Out) و دووبارە بچۆرەوە ژوورەوە.
 4. <span dir="ltr">**System Settings → Keyboard → Input Sources → Edit → +**</span> بکەرەوە، <span dir="ltr">**Kurdi-Sorani**</span> و <span dir="ltr">**Kurdi-Arabi**</span> بدۆزەرەوە (لە ژێر *Kurdish* یان *Others*) و زیادیان بکە.
 
-**نوێکردنەوە لە v1.0.0:** سەرەتا <code dir="ltr">Kurdi Sorani.bundle</code> و `Kurdi.bundle`ـی کۆن لەو بوخچەیە بسڕەوە.
-
 ## 🗑️ سڕینەوە
 
 `Kurdi.bundle` لە <code dir="ltr">~/Library/Keyboard Layouts/</code> بسڕەوە، پاشان بچۆ دەرەوە و دووبارە بچۆرەوە ژوورەوە.
