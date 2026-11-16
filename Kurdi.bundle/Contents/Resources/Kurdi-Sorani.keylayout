@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Kurdish keyboard Aramx based on default kurdish keyboard for Windows and Linux-->
 <!--Last edited by Ukelele version 359 on 2023-12-14 at 13:36 (GMT+3)-->
-<keyboard group="126" id="-17991" name="Kurdi Sorani" maxout="2">
+<keyboard group="126" id="-17991" name="Kurdi-Sorani" maxout="2">
     <layouts>
         <layout first="0" last="0" mapSet="a8" modifiers="30"/>
     </layouts>

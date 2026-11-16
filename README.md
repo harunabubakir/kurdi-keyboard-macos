@@ -10,29 +10,42 @@
 
 ## 📦 Layouts
 
-| Bundle | Layouts inside |
-|---|---|
-| `Kurdi Sorani.bundle` | Kurdi Sorani |
-| `Kurdi.bundle` | Kurdi-کوردی, Kurdi-عەرەبی |
+One bundle, `Kurdi.bundle`, with two layouts. Both are tagged as Central Kurdish (`ckb`) and show the Kurdistan flag.
 
-All three are tagged as Central Kurdish (`ckb`).
+### Kurdi-Sorani
+
+Phonetic Kurdish, like *Kurdish (Central)* on Windows.
+
+![Kurdi-Sorani layout](images/kurdi-sorani.png)
+
+### Kurdi-Arabi
+
+The Arabic Windows layout with Kurdish letters added.
+
+![Kurdi-Arabi layout](images/kurdi-arabi.png)
+
+In both pictures: black is the normal key, red is Shift, green is with Caps Lock on, blue is Option.
+
+> macOS shows a privacy warning instead of a keyboard preview for keyboards that don't come from Apple, so use the pictures above. Once a layout is active you can also choose **Show Keyboard Viewer** from the input menu in the menu bar.
 
 ## 🚀 Install
 
 1. Download the zip from the [latest release](../../releases/latest) and unzip it.
-2. Copy all files to:
+2. Copy `Kurdi.bundle` to:
 
    ```
    ~/Library/Keyboard Layouts/
    ```
 
-   In Finder: **Go → Go to Folder…** (⇧⌘G), paste the path above, and drop the files in.
+   In Finder: **Go → Go to Folder…** (⇧⌘G), paste the path above, and drop the file in.
 3. Log out and log back in.
-4. Open **System Settings → Keyboard → Input Sources → Edit → +**, find the Kurdi keyboards (under *Kurdish* or *Others*) and add them.
+4. Open **System Settings → Keyboard → Input Sources → Edit → +**, find **Kurdi-Sorani** and **Kurdi-Arabi** (under *Kurdish* or *Others*) and add them.
+
+**Upgrading from v1.0.0:** delete the old `Kurdi Sorani.bundle` and `Kurdi.bundle` from that folder first.
 
 ## 🗑️ Uninstall
 
-Delete `Kurdi.bundle` and `Kurdi Sorani.bundle` from `~/Library/Keyboard Layouts/`, then log out and back in.
+Delete `Kurdi.bundle` from `~/Library/Keyboard Layouts/`, then log out and back in.
 
 ## 📝 Word extras (optional)
 
