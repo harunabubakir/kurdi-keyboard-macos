@@ -32,7 +32,7 @@ In both pictures: black is the normal key, red is Shift, green is with Caps Lock
 
 ## 🚀 Install
 
-1. Download the zip from the [latest release](../../releases/latest) and unzip it.
+1. **[⬇️ Click to download](https://github.com/harunabubakir/kurdi-keyboard-macos/releases/latest/download/Kurdi-Keyboard-Layouts.zip)** the latest `Kurdi-Keyboard-Layouts.zip`, then unzip it.
 2. Copy `Kurdi.bundle` to:
 
    ```

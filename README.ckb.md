@@ -34,7 +34,7 @@
 
 ## 🚀 دامەزراندن
 
-1. فایلی zip لە [دوایین وەشان](../../releases/latest) دابگرە و بیکەرەوە.
+1. **[⬇️ کلیک بکە بۆ داگرتن](https://github.com/harunabubakir/kurdi-keyboard-macos/releases/latest/download/Kurdi-Keyboard-Layouts.zip)**ـی دوایین <code dir="ltr">Kurdi-Keyboard-Layouts.zip</code>، پاشان بیکەرەوە.
 2. `Kurdi.bundle` کۆپی بکە بۆ: <code dir="ltr">~/Library/Keyboard Layouts/</code>
 
    لە Finder: <span dir="ltr">**Go → Go to Folder…** (⇧⌘G)</span>، ئەو ڕێڕەوەی سەرەوە بلکێنە و فایلەکەی تێ بخە.
